@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/soulmate/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/soulmate/static/js/main.9bb33c6f.chunk.js",
-    "main.js.map": "/soulmate/static/js/main.9bb33c6f.chunk.js.map",
-    "runtime-main.js": "/soulmate/static/js/runtime-main.bf5a3e36.js",
-    "runtime-main.js.map": "/soulmate/static/js/runtime-main.bf5a3e36.js.map",
-    "static/js/2.f0ea0774.chunk.js": "/soulmate/static/js/2.f0ea0774.chunk.js",
-    "static/js/2.f0ea0774.chunk.js.map": "/soulmate/static/js/2.f0ea0774.chunk.js.map",
-    "static/js/3.6cd8ee90.chunk.js": "/soulmate/static/js/3.6cd8ee90.chunk.js",
-    "static/js/3.6cd8ee90.chunk.js.map": "/soulmate/static/js/3.6cd8ee90.chunk.js.map",
+    "main.css": "/soulmate/static/css/main.e6c13ad2.css",
+    "main.js": "/soulmate/static/js/main.17a33106.js",
+    "static/js/453.4030f722.chunk.js": "/soulmate/static/js/453.4030f722.chunk.js",
     "index.html": "/soulmate/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/soulmate/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.f0ea0774.chunk.js.LICENSE.txt": "/soulmate/static/js/2.f0ea0774.chunk.js.LICENSE.txt"
+    "main.e6c13ad2.css.map": "/soulmate/static/css/main.e6c13ad2.css.map",
+    "main.17a33106.js.map": "/soulmate/static/js/main.17a33106.js.map",
+    "453.4030f722.chunk.js.map": "/soulmate/static/js/453.4030f722.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf5a3e36.js",
-    "static/js/2.f0ea0774.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9bb33c6f.chunk.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.17a33106.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/soulmate/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/soulmate/static/js/main.509024b4.chunk.js",
-    "main.js.map": "/soulmate/static/js/main.509024b4.chunk.js.map",
+    "main.js": "/soulmate/static/js/main.8e81f24c.chunk.js",
+    "main.js.map": "/soulmate/static/js/main.8e81f24c.chunk.js.map",
     "runtime-main.js": "/soulmate/static/js/runtime-main.5bc00b1b.js",
     "runtime-main.js.map": "/soulmate/static/js/runtime-main.5bc00b1b.js.map",
     "static/js/2.beba2085.chunk.js": "/soulmate/static/js/2.beba2085.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5bc00b1b.js",
     "static/js/2.beba2085.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.509024b4.chunk.js"
+    "static/js/main.8e81f24c.chunk.js"
   ]
 }
